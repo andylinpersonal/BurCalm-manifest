@@ -2,6 +2,10 @@
 <manifest>
 	<remote name="origin" revision="burcalm" fetch="ssh://git@github.com/andylinpersonal" />
 	<project name="BurCalm-fw-bc"    path="fw/bc"    remote="origin"/>
+	<project name="Crafette-fw-vendor-espressif-esp-idf"
+		 path="fw/vendor/espressif/esp-idf"
+		 revision="bc/r/release/v5.1"
+		 remote="origin"/>
 	<project name="BurCalm-manifest" path="manifest" remote="origin"/>
 	<project name="Crafette-hw-evb"  path="hw/evb"   remote="origin"/>
 	<project name="Crafette-hw-lib"  path="hw/lib"   remote="origin"/>

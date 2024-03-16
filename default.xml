@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="origin" revision="burcalm" fetch="ssh://git@github.com/andylinpersonal" />
+	<project name="BurCalm-fw-bc"    path="fw/bc"    remote="origin"/>
+	<project name="BurCalm-manifest" path="manifest" remote="origin"/>
+	<project name="Crafette-hw-evb"  path="hw/evb"   remote="origin"/>
+	<project name="Crafette-hw-lib"  path="hw/lib"   remote="origin"/>
+	<project name="Crafette-hw-tool" path="hw/tool"  remote="origin"/>
+</manifest>

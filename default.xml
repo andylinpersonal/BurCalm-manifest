@@ -3,6 +3,10 @@
 	<remote name="origin" revision="burcalm" fetch="ssh://git@github.com/andylinpersonal" />
 	<project name="BurCalm-fw-bc"    path="fw/bc"    remote="origin"/>
 	<project name="Crafette-fw-tool" path="fw/tool"  remote="origin"/>
+	<project name="ogg"
+		 path="fw/vendor/xiph/ogg"
+		 revision="bc/r/v1.3.5"
+		 remote="origin"/>
 	<project name="Crafette-fw-vendor-espressif-esp-idf"
 		 path="fw/vendor/espressif/esp-idf"
 		 revision="bc/r/release/v5.2"

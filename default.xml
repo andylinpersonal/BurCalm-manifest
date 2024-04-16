@@ -7,6 +7,10 @@
 		 path="fw/vendor/xiph/ogg"
 		 revision="bc/r/v1.3.5"
 		 remote="origin"/>
+	<project name="tremor"
+		 path="fw/vendor/xiph/tremor"
+		 revision="bc/r/master"
+		 remote="origin"/>
 	<project name="Crafette-fw-vendor-espressif-esp-idf"
 		 path="fw/vendor/espressif/esp-idf"
 		 revision="bc/r/release/v5.2"

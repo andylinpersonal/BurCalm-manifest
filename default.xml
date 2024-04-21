@@ -9,7 +9,7 @@
 		 remote="origin"/>
 	<project name="tremor"
 		 path="fw/vendor/xiph/tremor"
-		 revision="bc/r/master"
+		 revision="bc/r/lowmem"
 		 remote="origin"/>
 	<project name="Crafette-fw-vendor-espressif-esp-idf"
 		 path="fw/vendor/espressif/esp-idf"

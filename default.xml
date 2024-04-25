@@ -15,6 +15,10 @@
 		 path="fw/vendor/espressif/esp-idf"
 		 revision="bc/r/release/v5.2"
 		 remote="origin"/>
+	<project name="lvgl"
+		 path="fw/vendor/lvgl/lvgl"
+		 revision="bc/r/release/v9.1"
+		 remote="origin"/>
 	<project name="BurCalm-manifest" path="manifest" remote="origin"/>
 	<project name="Crafette-hw-evb"  path="hw/evb"   remote="origin"/>
 	<project name="Crafette-hw-lib"  path="hw/lib"   remote="origin"/>

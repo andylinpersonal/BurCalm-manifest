@@ -27,6 +27,10 @@
 		 path="fw/vendor/lvgl/lvgl"
 		 revision="bc/r/release/v9.1"
 		 remote="origin"/>
+	<project name="lv_img_conv"
+		 path="fw/vendor/lvgl/tool/lv_img_conv"
+		 revision="bc/r/v9"
+		 remote="origin"/>
 	<project name="BurCalm-manifest" path="manifest" remote="origin"/>
 	<project name="Crafette-hw-evb"  path="hw/evb"   remote="origin"/>
 	<project name="Crafette-hw-lib"  path="hw/lib"   remote="origin"/>

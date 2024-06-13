@@ -15,14 +15,6 @@
 		 path="fw/vendor/espressif/esp-idf"
 		 revision="bc/r/release/v5.2"
 		 remote="origin"/>
-	<project name="esp-bsp"
-		 path="fw/vendor/espressif/esp-bsp"
-		 revision="bc/r/master"
-		 remote="origin"/>
-	<project name="esp-iot-solution"
-		 path="fw/vendor/espressif/esp-iot-solution"
-		 revision="bc/r/master"
-		 remote="origin"/>
 	<project name="lvgl"
 		 path="fw/vendor/lvgl/lvgl"
 		 revision="bc/r/release/v9.1"

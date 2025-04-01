@@ -13,11 +13,11 @@
 		 remote="origin"/>
 	<project name="Crafette-fw-vendor-espressif-esp-idf"
 		 path="fw/vendor/espressif/esp-idf"
-		 revision="bc/r/release/v5.2"
+		 revision="bc/r/release/v5.4"
 		 remote="origin"/>
 	<project name="lvgl"
 		 path="fw/vendor/lvgl/lvgl"
-		 revision="bc/r/release/v9.1"
+		 revision="bc/r/release/v9.2"
 		 remote="origin"/>
 	<project name="lv_img_conv"
 		 path="fw/vendor/lvgl/tool/lv_img_conv"
